@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pizzaeatingcompetition",
+  "private_key_id": "0b83e080f50ba6950a1990053a12687a86be157d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2ARh8DCewV+un\nRAaBIg9uMDm+aEhHtDbERzoKSGc3skAz2tSXT6ySbbF52q3cIG7GHj+U80Yfy+WH\nOamkz1efS3c4xzcXszYL0RZ1Y9niCe3S0bSjUg844aOZrmZkKLLj1rvmpPDwj3M9\nJQXoZlX8I5IxQTYSVDyvowEVWwAuDnC4+TaJAoVnI91f9MilouuTy8W2BBLDmzwb\nGq3VMvAp0Rc87HMegwnamhJ4Lp/6gTSHBWavWbQRSPNiov7Tx0dhSxZukyBW6QQF\nAqy8c7wbUrVl7j2RoNrxKmc4kJjSJavEbRLzqzvyL/cG54H0olFeEhuh5SNgYS82\ngZIxTtkNAgMBAAECggEAAMEy6IrFXFwU+FHWJBFv1nFhP+qfSBrVck1oTnQb53V4\nAi8JXCJCsS2+w2ZWe7fvtacY9OVoWEfoaP3id/I7JwgxU50x24mM8xIYIX77P45y\ne8IOWXIE6aO34bKBLq+jhEHW8B8ld53kqK9/XYYVG7FLESS31G4gfUrz/XJt5wL7\nBksxKSrw7Fdj2PQqZUXm6wIQt1LmSajxAoHcx+vo9zgI+tUttn/uyaZfcqxHwTWs\nfRf2fF4S3dhwKW8tk8Jr98Phws8YBoyjtBIW+cXXhN/1hOb8yip9D/aAv/wyQrPz\n78nsDIJU9av0J8F+Sbyn2WwBgWFd1udlL4sHsjGQUQKBgQDjU1bSrenANihioikM\nY3K62QAMieFu5dzq5eUHA5V2kVRGslgnsyC+pAGrDrPJTB0fVcwD5ql88EjF7qy8\ntppgEWuT8plJ1L8ZnaQrMThuAcaJ2YseTdLFxBT0k1/W2n2QrnBW/0TpS/LQxbnw\nLi4IWdhhyH0qBKq+sc4zbZDt/QKBgQDM9kTvaQN9GDG0WmXmtU7cvLITtoGuaHqQ\n2BFY1TQSjlwggQJ4eDMoC1h9CS0wL0hXWrhAUuCCkYXwz7n07OWQtBtOBWpVFAZZ\n1n1Qc53xz54rNT33Uaxs1PD6i85RfP128WFzPys9NuyIQ904EHUlYZ/FQszNECDO\nT0Wh6PF8UQKBgCI5qum/S2EoBj6LYZi+5EgjYbGBlNJIg1FOWYQL0xXt3X1jXohj\nnLt3H9UsOn9FGWFdXoD72mq4FozOWW10JJvwI3072j5WbIsjw9LI71EIrWaVvS9L\n0j76PZlxEs3bSWpeCQXgGvTw/VbXXh4+JaoWNNDMCaQo3bgmNwBhL5/VAoGAW1og\nW3y4u1a/QJ1R8cQ5xBSuYi7kGfIjPs+u26MbNHITCcG2ci9QzbZQ2FnwtBs+6QBc\nQv8tZcSqqCxNu6aiox5DVUEApa7pLb112RfO++oHm0Z9ue/DJDa8uU76xEMrTYpE\nXvN2uC/0uL9WqBhdvi2G4orlcTiRBqM6a/HBQCECgYAbaqmh8u7qDfLaZv7+cYrs\nCGiv04Jn+ee0BPk69sbKVJoggEX9/rtORAeTeZwqpYRh5RYlWab0ARUfEto8lAQw\ngMHWhCr8f8oNhOA5SzzBhsCDUOtBuKACAIcm2JtyPxsUFHojAm+INnb5Qm+EpAkU\ny+00quiyOk5UD2ZQhki1AQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fak58@pizzaeatingcompetition.iam.gserviceaccount.com",
+  "client_id": "116085936493339151289",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fak58%40pizzaeatingcompetition.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
